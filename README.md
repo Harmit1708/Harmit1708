@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm @Harmit1708</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
 
 - 🔭 I’m Intrested In ... **Web Development**
 
