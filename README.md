@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm @Harmit1708</h1>
-- 🤩 I’m Intrested In ... **Web Development**
+<h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning ... **ReactJS**
+- 🔭 I’m Intrested In ... **Web Development**
+
+- 🌱 I’m currently learning **ReactJS**
 
 - 👯 I’m looking to collaborate on ... **Web Design**
 
-- 📫 How to reach me ... **Harmitsonani@gmail.com**
+- 📫 How to reach me **Harmitsonani@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -18,6 +20,8 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harmit1708&show_icons=true&locale=en&layout=compact" alt="harmit1708" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harmit1708&show_icons=true&locale=en" alt="harmit1708" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harmit1708&" alt="harmit1708" /></p>
 
 
 <!--
